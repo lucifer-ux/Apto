@@ -1,0 +1,118 @@
+{
+  "Header": {
+    "title": "Welcome to Apto",
+    "paragraph": "Wanna workout?? Pay only for what you use"
+  },
+  "About": {
+    "paragraph": "Fitness is not just a sense of fasion or meant for certain people, its a way of living and also under the current scenario, staying fit costs a lot",
+    "Why": [
+      "Do you go to a gym?",
+      "Do you pay a monthly fee and skip half the time?",
+      "Did you stop because it wasted your money?",
+      "Why overpay... We at Apto are to help you pay only for the days you actually work out"
+    ],
+    "Why2": [
+      "We are in the beta phase, we appericiate your visit so soon",
+      "As a token of our appericiation let us give you a gift",
+      "Pre register and get one work out free per a month for a year at any of our partner gyms",
+      "Pre register for the benifit, limited slots available... Hurry!!!"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-money",
+      "name": "No more Overpayment",
+      "text": "Dont pay for days you dont visit, pay for the day and workout"
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "Be like them",
+      "text": "An oppertunity to be fit with people you admire"
+    }
+  ],
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Sounak Senapati",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Sucheta Sarangi",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Vaibhav Pratap Singh",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Shashwat Shukla",
+      "job": "Founder"
+    }
+  ],
+  "Contact": {
+    "address": "Adress_____________",
+    "phone": "Company mob number",
+    "email": "fitness.apto@gmail.com",
+    "facebook": "Instagram_page",
+    "twitter": "Twitter account",
+    "youtube": "Youtube page"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "24x7 support",
+      "text": "We at Apto care about you, will help you out anytime you want"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Offers that we offer",
+      "text": "A happy customer makes a happy company, and our regular benifit announcements surely are gonna make you happy"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Be fit with everyone",
+      "text": "Why enjoy the magic alone, help more people in joining with us and get special rewards too"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Works like magic",
+      "text": "Pay for just the days you work out, sounds like magic right, well we got the wand with us.. Abra kadabra"
+    }
+  ]
+}
