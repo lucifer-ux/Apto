@@ -1,6 +1,5 @@
 {
-  "homepage":"http://lucifer-ux.github.io/Apto",
-  "name": "Apto HomePage",
+  "name": "landingpage-react-template",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
